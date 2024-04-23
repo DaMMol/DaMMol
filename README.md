@@ -1,4 +1,4 @@
-Hello! My name is Daniel and I'm an aspiring software developer studying at Metropolia University of Applied Sciences majoring in software production. 
+Hello! My name is Dániel and I'm an aspiring software developer studying at Metropolia University of Applied Sciences majoring in software production. 
 
 ### My Tech Stack
 <p align="left"> 
