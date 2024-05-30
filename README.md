@@ -19,6 +19,7 @@ Hello! My name is Dániel and I'm an aspiring software developer studying at Met
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a> 
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="maven" width="40" height="40"/></a>
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a> 
+<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="junit" width="40" height="40"/></a> 
 
 #
 
